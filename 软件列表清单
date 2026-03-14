@@ -1,7 +1,23 @@
 软件列表清单:
+1.编程与ide
 vscode
 idea
 pycharm
 vs2026
 docker
 cyberchef
+python - virtualenv 
+opencode
+codex
+2.ai工具
+cherry studio
+ollama 
+vllm
+3.编程语言环境
+jdk-8,jdk-17,jdk-22
+go
+rust
+python
+npm,node,pnpm,npx
+cocos
+docker(所有应用程序和中间件统一在docker完成)
